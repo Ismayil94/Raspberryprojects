@@ -1,0 +1,7 @@
+Write a program on your Raspberry Pi that searches a Twitter stream for tweets containing the string “Ian G. Harris”.
+ When 3 or more such tweets are found, your program should print, “Ian G. Harris is popular!”
+
+Manually create some tweets containing the string “Ian G. Harris” in order to demonstrate that your code works. 
+Turn in your code and a screenshot of your Raspberry Pi printing “Ian G. Harris is popular!” after finding 3 or more appropriate tweets.
+
+Remember that this code should be only a small modification of the Twitter stream filtering code which has been presented in the course.
